@@ -1,6 +1,6 @@
 # BigNeuron
 
-* The documentations of BigNeuron Project can be accessed via the wiki page ( https://github.com/BigNeuron/docs/wiki ).
+* Documentations of BigNeuron Project can be accessed via the wiki page (https://github.com/BigNeuron/docs/wiki).
 
 * BigNeuron project's official websites are (http://bigneuron.org and http://alleninstitute.org/bigneuron/about/)
 
